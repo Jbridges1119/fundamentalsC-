@@ -1,0 +1,15 @@
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/bin/Debug/net6.0/SimpleMethods
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/bin/Debug/net6.0/SimpleMethods.deps.json
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/bin/Debug/net6.0/SimpleMethods.runtimeconfig.json
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/bin/Debug/net6.0/SimpleMethods.dll
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/bin/Debug/net6.0/SimpleMethods.pdb
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.csproj.AssemblyReference.cache
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.AssemblyInfoInputs.cache
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.AssemblyInfo.cs
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.csproj.CoreCompileInputs.cache
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.dll
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/refint/SimpleMethods.dll
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.pdb
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/SimpleMethods.genruntimeconfig.cache
+/home/jeff/projects/C#/fundementalsC#/SimpleMethods/obj/Debug/net6.0/ref/SimpleMethods.dll
