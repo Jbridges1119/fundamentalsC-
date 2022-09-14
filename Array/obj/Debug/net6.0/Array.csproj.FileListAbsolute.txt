@@ -1,0 +1,15 @@
+/home/jeff/projects/C#/fundementalsC#/Array/bin/Debug/net6.0/Array
+/home/jeff/projects/C#/fundementalsC#/Array/bin/Debug/net6.0/Array.deps.json
+/home/jeff/projects/C#/fundementalsC#/Array/bin/Debug/net6.0/Array.runtimeconfig.json
+/home/jeff/projects/C#/fundementalsC#/Array/bin/Debug/net6.0/Array.dll
+/home/jeff/projects/C#/fundementalsC#/Array/bin/Debug/net6.0/Array.pdb
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.csproj.AssemblyReference.cache
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.AssemblyInfoInputs.cache
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.AssemblyInfo.cs
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.csproj.CoreCompileInputs.cache
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.dll
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/refint/Array.dll
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.pdb
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/Array.genruntimeconfig.cache
+/home/jeff/projects/C#/fundementalsC#/Array/obj/Debug/net6.0/ref/Array.dll
